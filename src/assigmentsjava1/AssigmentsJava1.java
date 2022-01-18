@@ -17,6 +17,9 @@ public class AssigmentsJava1 {
         // TODO code application logic here
         System.out.println("Hello");//system output here
         System.out.print("This is an example");// this is another one
+        
+        System.out.println("Hello");//system output here
+        System.out.print("This is an example");// this is another one
     }
     
 }
